@@ -1,3 +1,4 @@
+// Ejercicio descuento de 10% de un producto
 let valorProducto: number;
 let valorDescuento: number;
 let precioFinal: number;
